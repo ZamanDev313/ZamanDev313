@@ -90,6 +90,12 @@ A modern developer portfolio showcasing my projects, skills, experience and deve
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ZamanDev313/ZamanDev313/output/github-snake-dark.svg" alt="Snake Animation" />
+</p>
+
 ## 📈 My Development Journey
 
 ```text
@@ -99,3 +105,5 @@ React            ████████████░░░░░░░░  6
 PHP / MySQL      ███████████████░░░░░  75%
 Node.js          ████████░░░░░░░░░░░░  40%
 MongoDB          ███████░░░░░░░░░░░░░  35%
+---
+
