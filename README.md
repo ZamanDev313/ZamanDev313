@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./Images/" alt="Muhammad Zaman - Frontend Develope" width="100%">
+</p>
 # 👋 Hi, I'm Muhammad Zaman
 
 ### 💻 Frontend Developer | Web Developer | Creative Problem Solver
