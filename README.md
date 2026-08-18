@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Images/" alt="Muhammad Zaman - Frontend Develope" width="100%">
+  <img src="./Images/GitHub-Profile-Banner.png" alt="Muhammad Zaman - Frontend Develope" width="100%">
 </p>
 # 👋 Hi, I'm Muhammad Zaman
 
