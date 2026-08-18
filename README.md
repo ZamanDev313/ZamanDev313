@@ -89,6 +89,25 @@ A modern developer portfolio showcasing my projects, skills, experience and deve
 </p>
 
 ---
+## 📈 My Development Journey
+
+<div align="center">
+  
+### 🚀 Frontend Development
+| Technology | Level | Progress |
+|------------|-------|----------|
+| <img src="https://skillicons.dev/icons?i=html,css" width="25"/> **HTML & CSS** | <span style="color:#e94057">●</span><span style="color:#e94057">●</span><span style="color:#e94057">●</span><span style="color:#e94057">●</span><span style="color:#e94057">●</span> | 100% |
+| <img src="https://skillicons.dev/icons?i=js" width="25"/> **JavaScript** | <span style="color:#f7b731">●</span><span style="color:#f7b731">●</span><span style="color:#f7b731">●</span><span style="color:#f7b731">●</span><span style="color:#ddd">●</span> | 80% |
+| <img src="https://skillicons.dev/icons?i=react" width="25"/> **React** | <span style="color:#61dafb">●</span><span style="color:#61dafb">●</span><span style="color:#61dafb">●</span><span style="color:#ddd">●</span><span style="color:#ddd">●</span> | 60% |
+
+### 💾 Backend Development
+| Technology | Level | Progress |
+|------------|-------|----------|
+| <img src="https://skillicons.dev/icons?i=php,mysql" width="25"/> **PHP & MySQL** | <span style="color:#777bb4">●</span><span style="color:#777bb4">●</span><span style="color:#777bb4">●</span><span style="color:#777bb4">●</span><span style="color:#ddd">●</span> | 75% |
+| <img src="https://skillicons.dev/icons?i=nodejs" width="25"/> **Node.js** | <span style="color:#68a063">●</span><span style="color:#68a063">●</span><span style="color:#ddd">●</span><span style="color:#ddd">●</span><span style="color:#ddd">●</span> | 40% |
+| <img src="https://skillicons.dev/icons?i=mongodb" width="25"/> **MongoDB** | <span style="color:#47a248">●</span><span style="color:#47a248">●</span><span style="color:#ddd">●</span><span style="color:#ddd">●</span><span style="color:#ddd">●</span> | 35% |
+
+</div>
 
 ## 🐍 Contribution Snake
 
@@ -96,14 +115,5 @@ A modern developer portfolio showcasing my projects, skills, experience and deve
   <img src="https://raw.githubusercontent.com/ZamanDev313/ZamanDev313/output/github-snake-dark.svg" alt="Snake Animation" />
 </p>
 
-## 📈 My Development Journey
 
-```text
-HTML / CSS       ████████████████████ 100%
-JavaScript       ████████████████░░░░  80%
-React            ████████████░░░░░░░░  60%
-PHP / MySQL      ███████████████░░░░░  75%
-Node.js          ████████░░░░░░░░░░░░  40%
-MongoDB          ███████░░░░░░░░░░░░░  35%
----
 
