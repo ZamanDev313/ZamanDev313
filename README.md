@@ -18,15 +18,45 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Frontend Developer** who enjoys turning ideas and designs into modern, responsive, and user-friendly websites.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=500&color=9b5de5&center=true&vCenter=true&width=600&lines=Hi,+I'm+ZamanDev313;Frontend+Developer;Creative+Problem+Solver;Building+the+Future+Web" alt="Typing SVG" />
+</p>
 
-I love learning new technologies, building real-world projects, solving problems, and continuously improving my development skills.
+<br/>
 
-- 🔭 Currently working on **Web Development Projects**
-- 🌱 Currently learning **React, Node.js & MongoDB**
-- 💡 Interested in **Frontend Development & Modern Web Technologies**
-- 🎯 Goal: Build useful, scalable and beautiful web applications
-- ⚡ Fun fact: I enjoy turning ideas into working websites
+<p align="center">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100" />
+</p>
+
+<br/>
+
+<div align="center">
+
+### 🔮 **About Me**
+
+<table>
+<tr>
+<td>
+
+I'm a passionate **Frontend Developer** who transforms ideas and designs into **modern**, **responsive**, and **user-friendly** websites. I thrive on learning new technologies, building real-world projects, solving problems, and continuously improving my development skills.
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### ⚡ **Current Status**
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🔭 **Currently Working On**
 
 ---
 
