@@ -51,30 +51,95 @@ I love learning new technologies, building real-world projects, solving problems
 </p>
 
 ---
-
 ## 📌 Featured Projects
 
 ### 🎓 Future Genius Academy Management System
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-In%20Development-blue?style=for-the-badge&logo=github&logoColor=white" alt="Status"/>
+  <img src="https://img.shields.io/badge/Version-2.0.0-9b5de5?style=for-the-badge" alt="Version"/>
+</p>
 
-A web-based academy management system developed using PHP and MySQL.
+> A comprehensive web-based academy management system streamlining student enrollment, fee tracking, and academic performance monitoring.
 
-**Tech:** `PHP` `MySQL` `HTML` `CSS` `JavaScript`
+**🔧 Tech Stack:**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,mysql,html,css,js" />
+</p>
+
+**✨ Key Features:**
+- 📊 Student enrollment & batch management
+- 💰 Fee collection & payment tracking
+- 📈 Academic performance analytics
+- 👨‍🏫 Teacher & staff management
+
+<p align="left">
+  <a href="#">
+    <img src="https://img.shields.io/badge/🔗-Live_Demo-0077B5?style=for-the-badge" alt="Live Demo"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/📂-Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+  </a>
+</p>
 
 ---
 
 ### 📚 E-Library
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge&logo=github&logoColor=white" alt="Status"/>
+  <img src="https://img.shields.io/badge/Version-1.5.0-00b4d8?style=for-the-badge" alt="Version"/>
+</p>
 
-An online library platform designed for university students to access educational resources and course materials.
+> An intelligent online library platform empowering university students with seamless access to educational resources and course materials.
 
-**Tech:** `HTML` `CSS` `JavaScript` `PHP` `MySQL`
+**🔧 Tech Stack:**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,mysql,html,css,js" />
+</p>
+
+**✨ Key Features:**
+- 📖 Digital resource catalog & search
+- 🔍 Advanced search & filtering
+- 📱 Responsive design
+- 📚 Course material organization
+
+<p align="left">
+  <a href="#">
+    <img src="https://img.shields.io/badge/🔗-Live_Demo-0077B5?style=for-the-badge" alt="Live Demo"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/📂-Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+  </a>
+</p>
 
 ---
 
 ### 💼 Personal Portfolio
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Live-ff6b6b?style=for-the-badge&logo=github&logoColor=white" alt="Status"/>
+  <img src="https://img.shields.io/badge/Version-3.0.0-ff6b6b?style=for-the-badge" alt="Version"/>
+</p>
 
-A modern developer portfolio showcasing my projects, skills, experience and development journey.
+> A modern, responsive developer portfolio showcasing my projects, skills, and professional development journey with a sleek UI.
 
-**Tech:** `React` `JavaScript` `CSS` `Vercel`
+**🔧 Tech Stack:**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,js,css,vercel" />
+</p>
+
+**✨ Key Features:**
+- 🎨 Modern & responsive design
+- ⚡ Interactive UI components
+- 📱 Mobile-first approach
+- 🚀 Optimized performance
+
+<p align="left">
+  <a href="#">
+    <img src="https://img.shields.io/badge/🔗-Live_Demo-0077B5?style=for-the-badge" alt="Live Demo"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/📂-Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+  </a>
+</p>
 
 ## 📈 GitHub Activity Graph
 
